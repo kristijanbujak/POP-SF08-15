@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ArrayOfTipNamestaja xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TipNamestaja>
+    <id>1</id>
+	<naziv>Krevet</naziv>
+    <obrisan>false</obrisan>   
+  </TipNamestaja>
+  <TipNamestaja>
+    <id>2</id>
+	<naziv>Polica</naziv>
+    <obrisan>false</obrisan>  
+  </TipNamestaja>
+</ArrayOfTipNamestaja>
